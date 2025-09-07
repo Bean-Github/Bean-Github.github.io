@@ -11,6 +11,6 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  base: "/personalwebsite/",
+  base: "/Bean-Github.Github.io/",
   
 })
